@@ -47,3 +47,4 @@ A simple command-line Python application built using object-oriented programming
 ### Tips  
 - Run program multiple times to simulate user experience.  
 - Carefully input invalid data deliberately to test error handling robustness.
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/72b4650d-0d20-46bb-89a1-83695f626dbe" />
