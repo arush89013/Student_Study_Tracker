@@ -3,17 +3,17 @@ Algorithm (Step-by-Step)
 2. Display main menu with options: Register, Login, Exit
 3. Get user choice
 4. If choice is Register:
--Prompt for username and password
--Check if username already exists
--If no, create new user and save
--Return to main menu
+   -Prompt for username and password
+   -Check if username already exists
+   -If no, create new user and save
+   -Return to main menu
 5. If choice is Login:
--Prompt for username and password
--Verify credentials
--If valid, display logged-in menu with options: Add Study Session, View Report, Logout
+   -Prompt for username and password
+   -Verify credentials
+   -If valid, display logged-in menu with options: Add Study Session, View Report, Logout
 6. In logged-in menu:
--If Add Study Session: Input subject, date, duration, break; add session
--If View Report: Calculate total study time and per subject time; display to user
--If Logout: Return to main menu
+   -If Add Study Session: Input subject, date, duration, break; add session
+   -If View Report: Calculate total study time and per subject time; display to user
+  -If Logout: Return to main menu
 7. If choice is Exit: Terminate program
 8. Repeat until exit
