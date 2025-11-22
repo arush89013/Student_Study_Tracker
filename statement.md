@@ -1,3 +1,6 @@
-# Problem Statement
+## Problem Statement
 <br>
 Many students struggle to efficiently track their study habits across multiple subjects, leading to poor time management and unclear insights into their study performance. This project addresses the need for a simple tool that allows users to register, record study sessions, and monitor their study time in an organized manner.Project ScopeDevelop a basic but functional CLI-based study tracker using Python’s OOP features. The tool will handle multiple users, enable input of study session details, and provide reports on study durations, broken down by subject.Target UsersCollege and school students who want a lightweight tool to monitor study habitsBeginners learning Python and OOP who want a project to apply concepts practicallyEducators or mentors seeking a simple way to suggest habit monitoring toolsHigh-Level FeaturesUser registration and authenticationAdding, viewing, and managing study sessions (subject, date, time, breaks)Reporting total study hours and subject-wise breakdownsCommand-line interface for ease of use without requiring GUIModular code design for maintainability and scalability.
+## Project Scope
+<br>
+Develop a basic but functional CLI-based study tracker using Python’s OOP features. The tool will handle multiple users, enable input of study session details, and provide reports on study durations, broken down by subject.
