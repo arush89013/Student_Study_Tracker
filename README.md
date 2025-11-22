@@ -48,3 +48,12 @@ A simple command-line Python application built using object-oriented programming
 - Run program multiple times to simulate user experience.  
 - Carefully input invalid data deliberately to test error handling robustness.
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/72b4650d-0d20-46bb-89a1-83695f626dbe" />
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/08a5a5de-1df1-4a82-b179-4ea7eac4fe2f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0ee24f6e-b9bc-4d0c-b45f-069bbaffdcbd" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/628bcf75-9214-4442-8239-5284f3dfeb06" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/68179f68-ff37-4441-8e82-100a707051de" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3d815e27-b6d4-45d8-8db1-09ab3fef53b2" />
