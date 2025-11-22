@@ -1,4 +1,4 @@
-# Student Habit and Study Tracker - Project Statement
+# Student Study Tracker - Project Statement
 
 ## Problem Statement  
 Students often find it challenging to keep track of their study habits and time spent on various subjects, which can lead to ineffective time management and difficulties in identifying areas needing improvement. There is a need for a simple, easy-to-use tool to help students monitor their study sessions and visualize their study patterns.
