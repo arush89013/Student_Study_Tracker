@@ -1,4 +1,4 @@
-#Student Study Tracker
+##Student Study Tracker
 ## Overview  
 A simple command-line Python application built using object-oriented programming. It lets users register, login, add study sessions, and view reports summarizing their habit and study times by subject.
 
